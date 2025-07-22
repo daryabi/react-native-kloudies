@@ -1,12 +1,12 @@
 
-Prerequisites
+## Prerequisites
 1- Node.js (LTS version recommended)
 
 2- Expo CLI installed globally: npm install -g expo-cli
 
 3- A Google Maps API Key with the "Maps SDK for Android/iOS" and "Places API" enabled.
 ## Installation & Setup
-1- git clone main branch from  [<your-repository-url>](https://github.com/daryabi/react-native-kloudies.git) 
+1- git clone main branch from  react-native-kloudies
 2- cd react-native-kloudies
 3- Replace the placeholder "YOUR_API_KEY_HERE" with your actual API key.
      A) app.json
