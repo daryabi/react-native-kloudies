@@ -1,0 +1,9 @@
+export const STR_DARK = "dark";
+export const PLUS_NOT_FOUND = "+not-found";
+export const IOS = "ios";
+export const GOOGLE_MAPS_API_KEY = 'YOUR_API_KEY_HERE';
+export const ASYNC_STORAGE_KEY = '@search_history';
+export const SEARCH_PACEHOLDER = "Search for a place...";
+export const LANGUAGE_ENG = "en";
+export const FAILED_TO_LOAD = "Failed to load search history.";
+export const FAILED_TO_SAVE = "Failed to save search history.";
